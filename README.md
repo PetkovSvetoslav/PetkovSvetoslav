@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Svetoslav K. Petkov</h2>
-- 👀 <h3 align="center">I’m a passionate developer by Java & JavaScript programming languages</h3>
+- Hi 👋, I'm Svetoslav K. Petkov
+- 👀 I’m a passionate developer by Java & JavaScript programming languages
 - 🌱 I’m currently learning Java, JavaScript & Marketing **in SoftUni Academy https://softuni.org/**
 - 💞️ I’m looking to collaborate on serious and long-term projects / companies.
 - 📫 How to reach me - svetoslav.k.petkov@gmail.com / +359884197091
