@@ -1,10 +1,10 @@
-- Hi 👋, I'm Svetoslav K. Petkov
-- 👀 I’m a passionate developer by Java & JavaScript programming languages
+- 👋 Hi, I'm Svetoslav K. Petkov
+- 💞️ I’m a passionate developer in Java & JavaScript programming languages
 - 💻 I love exploring new tech stack and leveraging them to build cool stuffs 🛠️.
 - 🎓 I graduated Java, JavaScript & Marketing **in SoftUni Academy https://softuni.org/**
-- 💞️ I’m looking for serious and long-term projects / companies.
+- 👀 I’m looking for serious and long-term projects / companies.
 - 📫 How to reach me - svetoslav.k.petkov@gmail.com / +359884197091
-- 👨‍💻 All of my projects are available at [https://github.com/PetkovSvetoslav](https://github.com/PetkovSvetoslav)
+- 👨‍💻 All my projects/codes are available at [https://github.com/PetkovSvetoslav](https://github.com/PetkovSvetoslav)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/svetoslav-petkov-195910227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/svetoslav-petkov-195910227/" height="30" width="40" /></a>
