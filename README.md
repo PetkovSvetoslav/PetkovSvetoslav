@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @PetkovSvetoslav
+<h2 align="center">Hi 👋, I'm Svetoslav K. Petkov</h2>
 - 👀 <h3 align="center">I’m a passionate developer by Java & JavaScript programming languages</h3>
 - 🌱 I’m currently learning Java, JavaScript & Marketing **in SoftUni Academy https://softuni.org/**
 - 💞️ I’m looking to collaborate on serious and long-term projects / companies.
 - 📫 How to reach me - svetoslav.k.petkov@gmail.com / +359884197091
-<h1 align="center">Hi 👋, I'm Svetoslav K. Petkov</h1>
 - 👨‍💻 All of my projects are available at [https://github.com/PetkovSvetoslav](https://github.com/PetkovSvetoslav)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
