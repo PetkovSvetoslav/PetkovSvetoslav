@@ -54,6 +54,3 @@
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
 </p>
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PetkovSvetoslav&langs_count=10&show_icons=true&locale=en&layout=compact" alt="petkovsvetoslav" />
