@@ -1,9 +1,9 @@
 - 👋 Hi, I'm Svetoslav K. Petkov
-- 💞️ I’m a passionate developer in Java & JavaScript programming languages
-- 💻 I love exploring new tech stack and leveraging them to build cool stuffs 🛠️.
-- 🎓 I graduated Java Full-Stack Developer, JavaScript Web Developer & Marketing Expert **in SoftUni Academy https://softuni.org/**
-- 👀 I’m looking for serious and long-term projects / companies.
-- 📫 How to reach me - svetoslav.k.petkov@gmail.com / +359884197091
+- 💞️ I’m a passionate developer in Java & SQL programming languages
+- 💻 I love exploring new tech stacks and leveraging them to build cool stuff 🛠️.
+- 🎓 I graduated Java Full-Stack Developer, Java Web Developer & Marketing Expert **in SoftUni Academy https://softuni.org/**
+- 👀 I’m looking for serious and long-term projects/companies.
+- 📫 How to reach me - work.petkov@gmail.com / +359884197091
 - 👨‍💻 All my projects/codes are available at [https://github.com/PetkovSvetoslav](https://github.com/PetkovSvetoslav)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
